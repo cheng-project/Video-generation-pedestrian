@@ -8,6 +8,7 @@
 ## Part: Inference
 
 ### Result
+#### Due to the limitation of computing resources, the training steps is also limited.
 | Init Image                                                                                           | Fine-tuning                                                                                         ||
 |------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-|
 | ![demo](https://github.com/cheng-project/Video-generation-pedestrian/blob/main/.asset/example01_resize.jpg) | ![ori](https://github.com/cheng-project/Video-generation-pedestrian/blob/main/.asset/example01.gif) | |
